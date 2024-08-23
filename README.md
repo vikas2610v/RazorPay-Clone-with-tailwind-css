@@ -1,6 +1,8 @@
 # Razorpay Clone
 
 A clone of the Razorpay website built using HTML and Tailwind CSS. This project aims to replicate the design and layout of the Razorpay website to provide a learning experience in web development and design.
+## HOSTED LINK
+https://vikas2610v.github.io/RazorPay-Clone-with-tailwind-css/
 
 ## Table of Contents
 
